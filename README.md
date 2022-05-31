@@ -3,4 +3,6 @@ github, otherwise you'll get an error saying "You didn't start the drivers!" Or 
 
 IT IS IMPORTANT TO COMPILE IT ON RELEASE x64 OTHERWISE YOU'LL GET ERRORS.
 
+Current Status [Outdated]
+
 [DRIVERS](https://github.com/SicksPasta/No-Source)
